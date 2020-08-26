@@ -1,7 +1,7 @@
 module.exports = {
   title: "Notes Test",
   tagline: "An attempt at some markdown course notes.",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://stungeye.github.io/notes-test",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
