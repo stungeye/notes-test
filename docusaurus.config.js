@@ -2,7 +2,7 @@ module.exports = {
   title: "Notes Test",
   tagline: "An attempt at some markdown course notes.",
   url: "https://stungeye.github.io/notes-test",
-  baseUrl: "/",
+  baseUrl: "/notes-test/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "stungeye", // Usually your GitHub org/user name.
